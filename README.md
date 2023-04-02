@@ -1,5 +1,5 @@
 # Levenword
-Levenword is the application I am designing for my Software Development capstone project. 
+Levenword is the application I am designing for my Software Development capstone project. This repository is devoted to the User Interface. To see the Service Layer respository, please visit [].
 
 ## Problem Description
 
