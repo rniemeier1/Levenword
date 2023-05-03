@@ -1,5 +1,5 @@
 # Levenword
-Levenword is the application I am designing for my Software Development capstone project. This repository is devoted to the User Interface. To see the Service Layer respository, please visit [Levenword_ServiceLayers](https://github.com/rniemeier1/Levenword_ServiceLayers).
+Levenword is the application I am designing for my Software Development capstone project. This repository is devoted to the User Interface. To see the Service Layer respository, please visit [Levenword_ServiceLayers](https://github.com/rniemeier1/Levenword_ServiceLayers). Here is the [current deployment](https://levenword-db.herokuapp.com/).
 
 ## Problem Description
 
